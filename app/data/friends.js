@@ -1,0 +1,166 @@
+var friendsArray = [
+{
+  "name":"Ahmed",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+},
+{
+  "name":"Another Ahmed",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+      4,
+      2,
+      2,
+      5,
+      2,
+      5,
+      3,
+      1,
+      1,
+      2
+    ]
+},
+{
+  "name":"Some Dude Named Ahmed",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+      4,
+      5,
+      2,
+      3,
+      1,
+      1,
+      2,
+      4,
+      2,
+      5
+    ]
+},
+{
+  "name":"Ahmed Jr.",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+      4,
+      1,
+      4,
+      5,
+      5,
+      5,
+      2,
+      1,
+      2,
+      3
+    ]
+},
+{
+  "name":"Ahmed III",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+      5,
+      5,
+      1,
+      1,
+      1,
+      1,
+      3,
+      5,
+      1,
+      5
+    ]
+},
+{
+  "name":"Yet Another Ahmed",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+},
+{
+  "name":"This Guy Is Also Ahmed",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ]
+},
+{
+  "name":"Also Ahmed",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+      3,
+      3,
+      2,
+      4,
+      1,
+      1,
+      2,
+      4,
+      4,
+      2
+    ]
+},
+{
+  "name":"My Main Man Ahmed",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+      5,
+      5,
+      1,
+      4,
+      5,
+      1,
+      3,
+      4,
+      3,
+      2
+    ]
+},
+{
+  "name":"Mike, but the picture is still just Ahmed",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+      1,
+      1,
+      3,
+      4,
+      5,
+      5,
+      2,
+      1,
+      4,
+      5
+    ]
+}
+
+
+];
+
+module.exports = friendsArray;
